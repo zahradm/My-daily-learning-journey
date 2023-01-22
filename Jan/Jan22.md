@@ -1,0 +1,2 @@
+## What was the problem? How to solve it?
+I talked to my friends today, and I received one of the best emails I've ever received. My dream is very big, so I must try. What I learned today is very valuable.

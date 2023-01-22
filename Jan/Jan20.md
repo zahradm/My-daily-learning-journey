@@ -1,4 +1,4 @@
-## What was the problem? How to solved it?
+## What was the problem? How to solve it?
 Today, there were two problems!
 The about, CV, and contact me sections of my personal webpage displayed 404 errors.
 This problem can be solved by making a .md file and removing the 'default:true' in the .md file.
