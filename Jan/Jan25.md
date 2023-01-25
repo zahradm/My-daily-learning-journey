@@ -1,0 +1,2 @@
+## What was the problem? How to solve it?
+I start [data-engineering-zoomcamp course](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/week2_transfer_service). It's amazing and today I install docker, and I learn how to ingesting data to postgres.
