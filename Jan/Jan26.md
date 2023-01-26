@@ -1,2 +1,2 @@
 ## What was the problem? How to solve it?
-I add one file on one of my github repisitory online. Today, I add another file locally in my project folder, but I can not use `git push` and I got one error. So, before I use `git push`, I run `git pull --rebase`.
+I added a file to one of my GitHub repositories. I tried to use `git push` today to add another file to my project folder, but I got an error. Before I used `git push`, I ran `git pull --rebase` to resolve this issue.
