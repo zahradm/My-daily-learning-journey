@@ -1,0 +1,2 @@
+## What was the problem? How to solve it?
+I add one file on one of my github repisitory online. Today, I add another file locally in my project folder, but I can not use `git push` and I got one error. So, before I use `git push`, I run `git pull --rebase`.
