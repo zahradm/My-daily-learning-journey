@@ -1,2 +1,2 @@
 ## What was the problem? How to solve it?
-With the hugging face library, I wanted to predict the sentiment of a sentence. So, I ran 'clf = pipeline(task='sentiment-analysis', model=model_name, tokenizer=tokenizer) to predict 'sentence.' But it didn't work (though it did work one month ago). You can solve this by clearing the tokenizer parameter in clf.
+With the hugging face library, I wanted to predict the sentiment of a sentence. So, I ran `clf = pipeline(task='sentiment-analysis', model=model_name, tokenizer=tokenizer)` and `clf.predict(sentence)` to predict sentence. But it didn't work (though it did work one month ago). You can solve this by clearing the `tokenizer` parameter in clf.
