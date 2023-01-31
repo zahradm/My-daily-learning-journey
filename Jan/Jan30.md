@@ -1,6 +1,6 @@
 ## What was the problem? How to solve it?
 
-[Homework link](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2023/week_1_docker_sql/homework.md)\
+[Homework link](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2023/week_1_docker_sql/homework.md)
 
 Q3:\
 `select *
@@ -18,7 +18,7 @@ Q5:\
 `select count(*)
 from green_tripdata201901
 where passenger_count=2 and 
-lpep_pickup_datetime >= '2019-01-01 00:00:00'::timestamp and lpep_pickup_datetime < '2019-01-02 00:00:00'::timestamp;`\
+lpep_pickup_datetime >= '2019-01-01 00:00:00'::timestamp and lpep_pickup_datetime < '2019-01-02 00:00:00'::timestamp;`
 
 
 
